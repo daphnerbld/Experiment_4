@@ -135,7 +135,7 @@ Author: Daphne P. Robleado
 Section: 2ECE-A
 
 ## VI. See Version History
-* 3 Readme file completed
-* 2 Uploaded Final Notebook and .py files
+* 4 Readme file completed
+* 3 Uploaded Final Notebook and .py files
 * 2 Uploaded Notebook draft
 * 1 Repository has been established
